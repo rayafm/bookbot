@@ -4,7 +4,7 @@ from stats import print_report
 # Read File function
 def get_book_text(path_to_file):
     # open a file
-    with open(path_to_file) as f:
+    with open(path_to_file, encoding="UTF-8") as f:
         # contents of the file
         return f.read()
         
