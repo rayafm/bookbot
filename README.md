@@ -7,10 +7,10 @@ Bookbot is a CLI program that analyzes novels and prints a statistical report of
 
 ## How to Use
 
-### Clone the Repository
+### Clone the repository
 Clone it to your local machine:
 ``` shell
-git clone https://github.com/YOUR-USERNAME/bookbot
+git clone https://github.com/rayafm/bookbot.git
 ```
 
 ### Place any text file in the project's books/ directory
