@@ -13,7 +13,7 @@ Clone it to your local machine:
 git clone https://github.com/rayafm/bookbot.git
 ```
 
-### Place any text file in the project's books/ directory
+### Place any text file in the project's /books directory
 ```shell
 cd bookbot
 mv PATH-TO-YOUR-TEXT-FILE books/
